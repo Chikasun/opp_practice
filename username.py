@@ -11,6 +11,6 @@ class UserName:
 
 
 hibiki = UserName(name='hibiki')
-a
+
 print(hibiki)
 print(hibiki.screen_name())
