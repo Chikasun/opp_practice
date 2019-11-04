@@ -26,3 +26,5 @@ print(rectangle1.diagonal())
 
 print(rectangle2.area())
 print(rectangle2.diagonal())
+
+print('hello')
